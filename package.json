@@ -4,9 +4,9 @@
   "main": "server.js",
   "scripts": {
     "dev": "nodemon -L server.js",
-    "prepare": "husky install",
     "lint": "eslint .",
-    "test": "jest"
+    "test": "jest",
+    "prepare": "husky install"
   },
   "keywords": [],
   "author": "",
