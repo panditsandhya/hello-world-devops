@@ -6,6 +6,7 @@
     "dev": "nodemon -L server.js",
     "lint": "npx eslint .",
     "test": "jest",
+     "build": "echo \"No build step required\"",
     "prepare": "husky install"
   },
   "keywords": [],
